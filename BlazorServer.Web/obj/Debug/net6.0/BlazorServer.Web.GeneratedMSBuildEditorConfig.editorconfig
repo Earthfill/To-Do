@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorServer.Web
+build_property.RootNamespace = BlazorServer.Web
+build_property.ProjectDir = c:\Users\USER\Personal Projects\C#\TourManagement\BlazorServer.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\USER\Personal Projects\C#\TourManagement\BlazorServer.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Main.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Spots/EditTouristSpot.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcRWRpdFRvdXJpc3RTcG90LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Spots/ViewTouristSpot.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BvdHNcVmlld1RvdXJpc3RTcG90LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ri4bicin7b
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-30w44mcf3r
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/USER/Personal Projects/C\#/TourManagement/BlazorServer.Web/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

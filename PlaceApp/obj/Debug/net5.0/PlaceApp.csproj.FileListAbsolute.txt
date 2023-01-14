@@ -5,7 +5,6 @@ C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\Plac
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\PlaceApp.runtimeconfig.json
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\PlaceApp.runtimeconfig.dev.json
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\PlaceApp.dll
-C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\ref\PlaceApp.dll
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\PlaceApp.pdb
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -22,7 +21,6 @@ C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\Plac
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\staticwebassets\PlaceApp.StaticWebAssets.Manifest.cache
-C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\staticwebassets\PlaceApp.StaticWebAssets.xml
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\scopedcss\bundle\PlaceApp.styles.css
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.RazorTargetAssemblyInfo.cache
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.csproj.CopyComplete
@@ -30,3 +28,5 @@ C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\Plac
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\ref\PlaceApp.dll
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.pdb
 C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\PlaceApp.genruntimeconfig.cache
+C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\bin\Debug\net5.0\PlaceApp.StaticWebAssets.xml
+C:\Users\USER\Personal Projects\C#\TourManagement\PlaceApp\obj\Debug\net5.0\refint\PlaceApp.dll
